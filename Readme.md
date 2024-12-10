@@ -1,6 +1,6 @@
 # BusinessFlow - Business Registration Platform
  I have used clean code and tried to copy the replica of the figma file while adding some changes by myself. This page consist of a registration page, a Dummy OPT generation section and a business registration page. Live at 
- [vercel](http://localhost:3000)
+ [vercel](https://codavatorBusinessPage.vercel.app/)
 
 
 
