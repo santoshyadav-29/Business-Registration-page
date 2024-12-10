@@ -28,11 +28,11 @@ export default function BusinessRegistrationPage() {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 p-4 text-white md:p-8">
+    <div className="min-h-screen  text-white md:p-8">
       {/* Back Link */}
       <Link
         href="/register"
-        className="mb-8 inline-flex items-center text-sm text-gray-300 hover:text-white"
+        className="mb-8 inline-flex items-center text-sm text-gray-800 hover:text-gray-500"
       >
         <ArrowLeft className="mr-2 h-4 w-4" />
         Back
@@ -43,7 +43,7 @@ export default function BusinessRegistrationPage() {
         <div className="mb-8 flex items-center justify-center">
           <div className="flex items-center gap-2">
             
-            <span className="text-xl font-bold">Multi-Step Process Form Assignment</span>
+            <span className="text-xl text-gray-800 font-bold">Multi-Step Process Form Assignment</span>
           </div>
         </div>
 
